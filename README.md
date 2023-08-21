@@ -1,6 +1,6 @@
 # Workout frontend
 
-This is a basic MERN (MongoDB, Express, React, Node.js) stack frontend project using React Context and Hooks. It's set up using `npx create-react-app` and includes a simple structure for managing workout data.
+This is a basic MERN (MongoDB, Express, React, Node.js) stack frontend project using React Context and Hooks. It's set up using `npx create-react-app` and includes a simple structure for managing workout data. It uses the [workout-backend](https://github.com/rcribeiro/workout-backend) project.
 
 ## Project Structure
 
