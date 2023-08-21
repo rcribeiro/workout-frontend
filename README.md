@@ -37,9 +37,8 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine.
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
-
+git clone https://github.com/rcribeiro/workout-frontend.git
+cd workout-frontend
 ```
 
 2. Install dependencies using npm:
